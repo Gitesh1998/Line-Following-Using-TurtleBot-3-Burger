@@ -26,9 +26,6 @@ This project aims to **develop an efficient and robust TurtleBot 3 Burger system
 
 By leveraging **ROS2, OpenCV, and Gazebo Simulator**, this project not only enhances the understanding of robot perception and control but also provides a **practical foundation for real-world autonomous navigation**. The optimizations ensure smooth performance even with limited computational resources, making it an **ideal step toward scalable robotic applications**.
 
-Would you like a different perspective on the motivation, such as real-world use cases or a problem statement? 🚀
-
-
 
 ### 📌 Prerequisites
 
@@ -140,8 +137,6 @@ self.cap = cv2.VideoCapture(0)  # Change 0 to 1 if using an external camera
 4️⃣ **Optimize Computational Efficiency** – Use **hardware acceleration** (e.g., OpenCV with CUDA on Jetson Nano) to process images faster, improving real-time performance.
 
 5️⃣ **ROS2 Navigation Stack Integration** – Replace the custom waypoint system with the **ROS2 Navigation Stack** for more autonomous and optimized path planning.
-
-Would you like additional ideas based on real-world applications? 🚀
 
 
 ### Contact:
