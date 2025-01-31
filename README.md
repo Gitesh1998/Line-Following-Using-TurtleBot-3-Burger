@@ -12,8 +12,6 @@ The “Line Following Using TurtleBot 3 Burger” project successfully achieved 
 6. Contact
 7. License
 
-### Motivation:
-
 ### 🏆 Motivation
 
 Autonomous mobile robots play a crucial role in modern robotics applications, from warehouse automation to smart transportation systems. The ability to **follow lines, navigate waypoints, and avoid dynamic obstacles** is fundamental for robots operating in structured and unstructured environments.
